@@ -1,0 +1,29 @@
+header {
+    padding: 15px 0px;
+    border-bottom: 1px solid;
+    background-color: white;
+    nav {
+        .collapse-menu {
+            ul {
+                li {
+                    a {
+                        font-size: 20px;
+                        padding: 10px 25px !important;
+                        color: $main-color !important;
+                        font-weight: 600 !important;
+                        i {}
+                    }
+                }
+            }
+        }
+        .collapse-social {
+            ul {
+                li {
+                    a {
+                        i {}
+                    }
+                }
+            }
+        }
+    }
+}
